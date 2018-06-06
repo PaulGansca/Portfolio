@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio containing my programming projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulGansca/Portfolio.git"
+  },
+  "author": "Paul Gansca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulGansca/Portfolio/issues"
+  },
+  "homepage": "https://github.com/PaulGansca/Portfolio#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
